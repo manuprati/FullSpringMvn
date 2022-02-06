@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:04:30 +0530] "GET /springmvcsearch/search?querybox=onlyjavatech HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:14:12 +0530] "GET /springmvcsearch/home?querybox=kkl HTTP/1.1" 200 1849
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:14:20 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 500 3643
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:17:41 +0530] "GET /springmvcsearch/home?querybox=kkl HTTP/1.1" 200 1849
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:17:54 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:17:54 +0530] "GET /search HTTP/1.1" 404 757
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:16 +0530] "GET /springmvcsearch/home?querybox=kkl HTTP/1.1" 200 1849
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:18 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:26 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:30 +0530] "GET /springmvcsearch/search?querybox=onlyjavatech HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:55 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:56 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2022:10:20:57 +0530] "GET /springmvcsearch/search?querybox= HTTP/1.1" 302 -

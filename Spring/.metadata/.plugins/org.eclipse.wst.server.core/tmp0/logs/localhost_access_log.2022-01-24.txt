@@ -1,0 +1,10 @@
+127.0.0.1 - - [24/Jan/2022:19:04:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:04:36 +0530] "GET /springmvcsearch/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:04:44 +0530] "GET /springmvcsearch/home HTTP/1.1" 200 1849
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:04:46 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:05:05 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4190
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:07:07 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4280
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:11:39 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4282
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:13:30 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4375
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:14:07 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4375
+0:0:0:0:0:0:0:1 - - [24/Jan/2022:19:14:33 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4375

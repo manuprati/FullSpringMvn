@@ -1,0 +1,5 @@
+package prodcrudapp.model;
+
+public class Product {
+
+}

@@ -1,0 +1,5 @@
+package springmvc1.model;
+
+public class User {
+
+}

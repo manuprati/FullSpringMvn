@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 class="text-center">Oops, Sorry!</h1>
+<h2 class="text-center"> Something went wrong!!</h2>
+<a href="#!">Take me to home</a><a><h3>CONTACT SUPPORT</h3></a>
+</body>
+</html>

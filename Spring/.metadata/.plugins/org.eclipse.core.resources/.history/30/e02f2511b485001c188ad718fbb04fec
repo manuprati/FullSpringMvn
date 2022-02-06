@@ -1,0 +1,5 @@
+package prodcrudapp.dao;
+
+public class ProductDao {
+
+}
