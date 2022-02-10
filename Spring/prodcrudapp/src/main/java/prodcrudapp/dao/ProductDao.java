@@ -18,7 +18,7 @@ public class ProductDao {
 	@Transactional
 	public void createProd(Product product) {
 		
-		this.hibernateTemplate.save(product);
+		this.hibernateTemplate.saveOrUpdate(product);
 	}
 	
 //	List all product
