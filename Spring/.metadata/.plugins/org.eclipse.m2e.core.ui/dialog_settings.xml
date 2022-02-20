@@ -23,6 +23,19 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\User\Downloads\springrest\springrest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -36,6 +49,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\eclipse-workspace\AOP"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,14 +62,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.aop"/>
 			<item value="com.spring.search"/>
 			<item value="com.spring.jdbc"/>
 		</list>
 		<list key="groupId">
+			<item value="com.aop"/>
 			<item value="com.spring.search"/>
 			<item value="com.spring.jdbc"/>
 		</list>
 		<list key="artifactId">
+			<item value="aopconcept"/>
 			<item value="springmvcsearch"/>
 			<item value="springjdbc"/>
 		</list>

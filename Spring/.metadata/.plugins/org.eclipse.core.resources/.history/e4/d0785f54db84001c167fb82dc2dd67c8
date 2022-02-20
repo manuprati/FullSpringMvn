@@ -1,5 +1,0 @@
-package springmvcexample;
-
-public class MyInterceptor {
-
-}
