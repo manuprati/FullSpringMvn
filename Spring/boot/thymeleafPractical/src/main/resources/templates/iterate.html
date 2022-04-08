@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8" />
+	<title>Example of Loops in Thymeleaf</title>
+</head>
+<body>
+<h1>Traversing elements in collections</h1>
+	<h1 th:text="${names}"></h1>
+	<ul th:each=" n, status : ${names}">
+		<li th:style="${status.odd} ? 'font-weight:bold' : 'color:red' " th:text="${status.index + 1}+' '+${n}"> </li>
+	</ul>
+</body>
+</html>
